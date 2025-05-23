@@ -19,7 +19,7 @@ A cross-platform CLI tool to inspect and manage port usage on your system. Perfe
 ### Command	Description
 | Command | Description |
 |---------|-------------|
-| `portsleuth` | List all active network connections |
-| `portsleuth --kill` | Interactive mode to select and kill processes |
-| `portsleuth --kill :3000` | Kill all processes using port 3000 |
+| `main` | List all active network connections |
+| `main --kill` | Interactive mode to select and kill processes |
+| `main --kill :3000` | Kill all processes using port 3000 |
 
